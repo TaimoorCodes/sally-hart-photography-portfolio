@@ -1,4 +1,4 @@
-# Sally hart Project 1 from SuperHi - Foundations Course
+Proejct #1 Sally hart Photography Portfolio from SuperHi - Foundations Course
 
 This one is a 1 page Photography portfolio site which you can view [Here](https://sally-hart-3846.superhi.hosting/)
 
